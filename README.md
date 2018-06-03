@@ -10,8 +10,6 @@ Samsung EVO 850 250 GB SSD
 
 Asus Strix RX580 TOP OC 8GB
 
-PCIe USB 3.0 Expansion card
-
 What works:
 
 Everything, the fully patched DSDT is a courtesy of the great MaLd0n!
